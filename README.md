@@ -1,6 +1,6 @@
 # code-review
 
-review下开源项目PR的代码，具体review在lssues中，看下代码是怎么优化的
+review下开源项目PR的代码，具体review在lssues中，看下别人PR的代码是怎么优化项目的
 
 ## review 的项目
 
